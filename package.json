@@ -1,0 +1,22 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathiixs/webApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathiixs/webApp/issues"
+  },
+  "homepage": "https://github.com/Nathiixs/webApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
